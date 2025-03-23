@@ -1,2 +1,0 @@
-[console_scripts]
-manage-services = manage_services:main

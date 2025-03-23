@@ -1,7 +1,0 @@
-setup.py
-service_manager.egg-info/PKG-INFO
-service_manager.egg-info/SOURCES.txt
-service_manager.egg-info/dependency_links.txt
-service_manager.egg-info/entry_points.txt
-service_manager.egg-info/requires.txt
-service_manager.egg-info/top_level.txt
